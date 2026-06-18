@@ -14,7 +14,7 @@ jobs:
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@YOUR_MEDIUM_USERNAME"
+          feed_list: "https://medium.com/feed/@berkahyanuarzulhiansyah"
           max_post_count: 5         # how many posts to show
           date_format: "yyyy-MM-dd"  # date format next to title
           readme_path: README.md
