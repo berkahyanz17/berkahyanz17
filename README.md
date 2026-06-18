@@ -37,3 +37,7 @@
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## 💬 Quote of the Day
+<!-- QUOTE-START -->
+<!-- QUOTE-END -->
