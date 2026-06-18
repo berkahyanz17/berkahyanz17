@@ -45,4 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
+> The people who are most successful are those who are doing what they love. — **Warren Buffett**
 <!-- QUOTE-END -->
