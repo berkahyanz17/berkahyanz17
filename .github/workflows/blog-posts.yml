@@ -1,0 +1,22 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@YOUR_MEDIUM_USERNAME"
+          max_post_count: 5         # how many posts to show
+          date_format: "yyyy-MM-dd"  # date format next to title
+          readme_path: README.md
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Update latest blog posts"
