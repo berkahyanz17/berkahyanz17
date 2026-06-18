@@ -2,7 +2,7 @@ name: Daily quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,25 +10,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Fetch quote and update README
         run: |
           python3 << 'EOF'
           import urllib.request, json, re
-
           with urllib.request.urlopen("https://zenquotes.io/api/random") as r:
               data = json.loads(r.read())[0]
           quote = f"> {data['q']} — **{data['a']}**"
-
           with open("README.md", "r") as f:
               content = f.read()
-
           new_content = re.sub(
               r"<!-- QUOTE-START -->.*?<!-- QUOTE-END -->",
               f"<!-- QUOTE-START -->\n{quote}\n<!-- QUOTE-END -->",
               content,
               flags=re.DOTALL
           )
-
           with open("README.md", "w") as f:
               f.write(new_content)
           EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update daily quote"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
