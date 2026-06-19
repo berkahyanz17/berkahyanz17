@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The people who are most successful are those who are doing what they love. — **Warren Buffett**
+> The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks. — **Colin R. Davis**
 <!-- QUOTE-END -->
