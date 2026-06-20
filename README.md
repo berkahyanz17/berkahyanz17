@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks. — **Colin R. Davis**
+> Give more than you think you can, trusting that you are richer than you think. — **Jon Kabat-Zinn**
 <!-- QUOTE-END -->
