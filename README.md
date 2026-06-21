@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Give more than you think you can, trusting that you are richer than you think. — **Jon Kabat-Zinn**
+> Happiness is an effect of doing what you love, not an end goal to be achieved. — **Celestine Chua**
 <!-- QUOTE-END -->
