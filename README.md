@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Happiness is an effect of doing what you love, not an end goal to be achieved. — **Celestine Chua**
+> When you move beyond your fear, you feel free. — **Spencer Johnson**
 <!-- QUOTE-END -->
