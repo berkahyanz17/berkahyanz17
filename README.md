@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> When you move beyond your fear, you feel free. — **Spencer Johnson**
+> Obstacles are those frightful things you see when you take your eyes off your goal. — **Henry Ford**
 <!-- QUOTE-END -->
