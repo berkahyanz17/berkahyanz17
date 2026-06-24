@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Obstacles are those frightful things you see when you take your eyes off your goal. — **Henry Ford**
+> We must be free not because we claim freedom, but because we practice it. — **William Faulkner**
 <!-- QUOTE-END -->
