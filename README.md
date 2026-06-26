@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> We suffer more often in imagination than in reality. — **Seneca**
+> It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way. — **Alan Watts**
 <!-- QUOTE-END -->
