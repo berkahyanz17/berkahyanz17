@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way. — **Alan Watts**
+> There's no one to perform for. There is just work to be done and lessons to be learned, in all that is around us. — **Ryan Holiday**
 <!-- QUOTE-END -->
