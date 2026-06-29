@@ -36,11 +36,11 @@
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Lab: Web shell upload via Content-Type restriction bypass](https://medium.com/@berkahyanuarzulhiansyah/lab-web-shell-upload-via-content-type-restriction-bypass-a1d93172e439?source=rss-241a06795f90------2)
-- [Lab: JWT authentication bypass via flawed signature verification](https://medium.com/@berkahyanuarzulhiansyah/lab-jwt-authentication-bypass-via-flawed-signature-verification-58698f72e4e9?source=rss-241a06795f90------2)
+- [PortSwigger Aprentice Labs Quick Review](https://medium.com/@berkahyanuarzulhiansyah/portswigger-aprentice-labs-quick-review-b3eccf5e8ddb?source=rss-241a06795f90------2)
+- [File upload vulnerabilities, GraphQL API, Race Conditions, NoSQL Injection, and API Testing](https://medium.com/@berkahyanuarzulhiansyah/lab-web-shell-upload-via-content-type-restriction-bypass-a1d93172e439?source=rss-241a06795f90------2)
+- [JWT authentication bypass, Web LLM Attacks, and Web cache deception](https://medium.com/@berkahyanuarzulhiansyah/lab-jwt-authentication-bypass-via-flawed-signature-verification-58698f72e4e9?source=rss-241a06795f90------2)
 - [These PortSwigger Apprentice Labs Are Tricky](https://medium.com/@berkahyanuarzulhiansyah/these-portswigger-apprentice-labs-are-tricky-c585c32078b3?source=rss-241a06795f90------2)
 - [Still Confuse on How to Make CA?](https://medium.com/@berkahyanuarzulhiansyah/still-confuse-on-how-to-make-ca-d4ac4334f94c?source=rss-241a06795f90------2)
-- [Choosing the Best Python GUI Framework](https://medium.com/@berkahyanuarzulhiansyah/choosing-the-best-python-gui-framework-d425ae5471e9?source=rss-241a06795f90------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Quote of the Day
