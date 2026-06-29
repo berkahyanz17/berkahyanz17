@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> A man that flies from his fear may find that he has only taken a short cut to meet it. — **J.R.R. Tolkien**
+> If you are patient in one moment of anger, you will escape a hundred days of sorrow. — **Chinese Proverb**
 <!-- QUOTE-END -->
