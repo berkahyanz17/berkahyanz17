@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> If you are patient in one moment of anger, you will escape a hundred days of sorrow. — **Chinese Proverb**
+> Nothing makes a man broad-minded like adversity. — **Will Rogers**
 <!-- QUOTE-END -->
