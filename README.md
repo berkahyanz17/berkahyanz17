@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Nothing makes a man broad-minded like adversity. — **Will Rogers**
+> It isn't what you do, but how you do it. — **John Wooden**
 <!-- QUOTE-END -->
