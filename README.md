@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> It isn't what you do, but how you do it. — **John Wooden**
+> We tend to live up to our expectations. — **Earl Nightingale**
 <!-- QUOTE-END -->
