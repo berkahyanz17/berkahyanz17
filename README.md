@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> We tend to live up to our expectations. — **Earl Nightingale**
+> Work harder on yourself than you do on your job. — **Jim Rohn**
 <!-- QUOTE-END -->
