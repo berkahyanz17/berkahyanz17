@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The truth is heavy, therefore few care to carry it. — **Winston Churchill**
+> Creative endeavors are by their nature uncertain. — **Robert Greene**
 <!-- QUOTE-END -->
