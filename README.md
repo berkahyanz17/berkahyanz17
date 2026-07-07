@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Creative endeavors are by their nature uncertain. — **Robert Greene**
+> Courage is found in unlikely places. — **J.R.R. Tolkien**
 <!-- QUOTE-END -->
