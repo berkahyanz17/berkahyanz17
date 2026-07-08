@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Courage is found in unlikely places. — **J.R.R. Tolkien**
+> By the practice of meditation, you will find that you are carrying within your heart a portable paradise. — **Paramahansa Yogananda**
 <!-- QUOTE-END -->
