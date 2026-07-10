@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The best way to predict the future is to create it. — **Abraham Lincoln**
+> The smallest act of kindness is worth more than the greatest intention. — **Kahlil Gibran**
 <!-- QUOTE-END -->
