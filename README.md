@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The smallest act of kindness is worth more than the greatest intention. — **Kahlil Gibran**
+> When you want to be honored by others, you learn to honor them first. — **Sathya Sai Baba**
 <!-- QUOTE-END -->
