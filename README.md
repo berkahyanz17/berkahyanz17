@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> When you want to be honored by others, you learn to honor them first. — **Sathya Sai Baba**
+> Have a heart that never hardens, and a temper that never tires, and a touch that never hurts. — **Charles Dickens**
 <!-- QUOTE-END -->
