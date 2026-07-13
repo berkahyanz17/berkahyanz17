@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Have a heart that never hardens, and a temper that never tires, and a touch that never hurts. — **Charles Dickens**
+> Trust is built and maintained by many small actions over time. — **Lolly Daskal**
 <!-- QUOTE-END -->
