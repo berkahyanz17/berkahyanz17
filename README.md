@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Trust is built and maintained by many small actions over time. — **Lolly Daskal**
+> The most effective way to do it, is to do it. — **Amelia Earhart**
 <!-- QUOTE-END -->
