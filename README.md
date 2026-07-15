@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The most effective way to do it, is to do it. — **Amelia Earhart**
+> No man ever steps in the same river twice, for it's not the same river and he's not the same man. — **Heraclitus**
 <!-- QUOTE-END -->
