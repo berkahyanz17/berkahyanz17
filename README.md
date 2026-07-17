@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> It always seems impossible until it's done. — **Nelson Mandela**
+> If you do not change direction, you may end up where you are heading. — **Lao Tzu**
 <!-- QUOTE-END -->
