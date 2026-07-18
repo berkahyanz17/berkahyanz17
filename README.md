@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> If you do not change direction, you may end up where you are heading. — **Lao Tzu**
+> To lose your temper is only useful once a year. — **Colin R. Davis**
 <!-- QUOTE-END -->
