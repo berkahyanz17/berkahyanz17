@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> To lose your temper is only useful once a year. — **Colin R. Davis**
+> Your best life will not be found in comfort. It will be found in fighting for what you believe in. — **Maxime Lagace**
 <!-- QUOTE-END -->
