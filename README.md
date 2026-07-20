@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Your best life will not be found in comfort. It will be found in fighting for what you believe in. — **Maxime Lagace**
+> Don't talk about what you have done or what you are going to do. — **Thomas Jefferson**
 <!-- QUOTE-END -->
