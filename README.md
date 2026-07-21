@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Don't talk about what you have done or what you are going to do. — **Thomas Jefferson**
+> Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. — **Ronald Reagan**
 <!-- QUOTE-END -->
