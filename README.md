@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. — **Ronald Reagan**
+> Catch, then, O catch the transient hour; Improve each moment as it flies! — **St. Jerome**
 <!-- QUOTE-END -->
