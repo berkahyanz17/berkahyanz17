@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Catch, then, O catch the transient hour; Improve each moment as it flies! — **St. Jerome**
+> Greatness lies not in being strong, but in the right use of strength. — **Henry Ward Beecher**
 <!-- QUOTE-END -->
