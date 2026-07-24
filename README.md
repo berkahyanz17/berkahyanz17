@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Greatness lies not in being strong, but in the right use of strength. — **Henry Ward Beecher**
+> Be regular and orderly in your life, so that you may be violent and original in your work. — **Gustave Flaubert**
 <!-- QUOTE-END -->
