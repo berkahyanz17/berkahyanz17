@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment. — **Dan Millman**
+> Passion creates, addiction consumes. — **Gabor Mate**
 <!-- QUOTE-END -->
