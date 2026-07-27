@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Passion creates, addiction consumes. — **Gabor Mate**
+> It's the possibility of having a dream come true that makes life interesting. — **Paulo Coelho**
 <!-- QUOTE-END -->
