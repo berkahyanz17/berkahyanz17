@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> It's the possibility of having a dream come true that makes life interesting. — **Paulo Coelho**
+> Success is not how high you have climbed, but how you make a positive difference to the world. — **Roy T. Bennett**
 <!-- QUOTE-END -->
