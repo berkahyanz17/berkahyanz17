@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Success is not how high you have climbed, but how you make a positive difference to the world. — **Roy T. Bennett**
+> Wealth is the product of man's capacity to think. — **Ayn Rand**
 <!-- QUOTE-END -->
