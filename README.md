@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Wealth is the product of man's capacity to think. — **Ayn Rand**
+> No man becomes rich unless he enriches others. — **Andrew Carnegie**
 <!-- QUOTE-END -->
