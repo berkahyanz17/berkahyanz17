@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> No man becomes rich unless he enriches others. — **Andrew Carnegie**
+> A gentleman accepts the responsibility of his actions and bears the burden of their consequences. — **William Faulkner**
 <!-- QUOTE-END -->
