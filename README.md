@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> A gentleman accepts the responsibility of his actions and bears the burden of their consequences. — **William Faulkner**
+> Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over. — **Joan Rivers**
 <!-- QUOTE-END -->
