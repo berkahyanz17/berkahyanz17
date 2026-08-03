@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength. — **Criss Jami**
+> Mastering others is strength, mastering yourself is true power. — **Lao Tzu**
 <!-- QUOTE-END -->
