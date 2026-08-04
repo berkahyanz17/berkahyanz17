@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Mastering others is strength, mastering yourself is true power. — **Lao Tzu**
+> Memory is the scribe of the soul. — **Aristotle**
 <!-- QUOTE-END -->
