@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Memory is the scribe of the soul. — **Aristotle**
+> Everybody by your side ain't on your side. — **Steve Harvey**
 <!-- QUOTE-END -->
