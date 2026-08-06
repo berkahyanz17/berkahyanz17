@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Everybody by your side ain't on your side. — **Steve Harvey**
+> Anxiety is the dizziness of freedom. — **Soren Kierkegaard**
 <!-- QUOTE-END -->
