@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Anxiety is the dizziness of freedom. — **Soren Kierkegaard**
+> We can change our lives. We can do, have, and be exactly what we wish. — **Tony Robbins**
 <!-- QUOTE-END -->
