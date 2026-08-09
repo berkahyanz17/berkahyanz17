@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Don't let anyone define you. You define yourself. — **Billie Jean King**
+> The sweetest pleasure arises from difficulties overcome. — **Publilius Syrus**
 <!-- QUOTE-END -->
