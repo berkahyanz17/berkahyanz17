@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The sweetest pleasure arises from difficulties overcome. — **Publilius Syrus**
+> Keep away from people who try to belittle your ambitions. — **Mark Twain**
 <!-- QUOTE-END -->
