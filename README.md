@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Keep away from people who try to belittle your ambitions. — **Mark Twain**
+> A man that flies from his fear may find that he has only taken a short cut to meet it. — **J.R.R. Tolkien**
 <!-- QUOTE-END -->
