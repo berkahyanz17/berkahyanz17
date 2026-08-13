@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> No need to hurry. No need to sparkle. No need to be anybody but oneself. — **Virginia Woolf**
+> Nothing can bring you peace but yourself. — **Dale Carnegie**
 <!-- QUOTE-END -->
