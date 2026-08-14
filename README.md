@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Nothing can bring you peace but yourself. — **Dale Carnegie**
+> A good character is the best tombstone. Carve your name on hearts, not on marble. — **Charles Spurgeon**
 <!-- QUOTE-END -->
