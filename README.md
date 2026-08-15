@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> A good character is the best tombstone. Carve your name on hearts, not on marble. — **Charles Spurgeon**
+> Far and away the best prize that life has to offer is the chance to work hard at work worth doing. — **Theodore Roosevelt**
 <!-- QUOTE-END -->
