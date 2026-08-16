@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Far and away the best prize that life has to offer is the chance to work hard at work worth doing. — **Theodore Roosevelt**
+> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. — **George Washington**
 <!-- QUOTE-END -->
