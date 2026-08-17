@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. — **George Washington**
+> Judgments prevent us from seeing the good that lies beyond appearances. — **Wayne Dyer**
 <!-- QUOTE-END -->
