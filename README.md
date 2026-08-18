@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Judgments prevent us from seeing the good that lies beyond appearances. — **Wayne Dyer**
+> Elegance does not consist in putting on a new dress. — **Coco Chanel**
 <!-- QUOTE-END -->
