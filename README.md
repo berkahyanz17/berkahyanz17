@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand. — **Colin Powell**
+> Faithless is he that says farewell when the road darkens. — **J.R.R. Tolkien**
 <!-- QUOTE-END -->
