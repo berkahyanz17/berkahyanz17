@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Faithless is he that says farewell when the road darkens. — **J.R.R. Tolkien**
+> The art of being wise is knowing what to overlook. — **William James**
 <!-- QUOTE-END -->
