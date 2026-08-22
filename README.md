@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The art of being wise is knowing what to overlook. — **William James**
+> It isn't what you do, but how you do it. — **John Wooden**
 <!-- QUOTE-END -->
