@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> It isn't what you do, but how you do it. — **John Wooden**
+> Change is inevitable but personal growth is a choice. — **Bob Proctor**
 <!-- QUOTE-END -->
