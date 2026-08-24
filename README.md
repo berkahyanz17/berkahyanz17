@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Change is inevitable but personal growth is a choice. — **Bob Proctor**
+> A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. — **Andrew Carnegie**
 <!-- QUOTE-END -->
