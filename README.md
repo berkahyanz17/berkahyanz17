@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. — **Andrew Carnegie**
+> Do not save what is left after spending, but spend what is left after saving. — **Warren Buffett**
 <!-- QUOTE-END -->
