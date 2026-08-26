@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Do not save what is left after spending, but spend what is left after saving. — **Warren Buffett**
+> What you do today can improve all your tomorrows. — **Ralph Marston**
 <!-- QUOTE-END -->
