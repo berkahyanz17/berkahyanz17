@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> What you do today can improve all your tomorrows. — **Ralph Marston**
+> You are what you believe in. You become that which you believe you can become. — **Bhagavad Gita**
 <!-- QUOTE-END -->
