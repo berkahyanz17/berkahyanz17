@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Our happiness depends on the habit of mind we cultivate. — **Norman Vincent Peale**
+> Yesterday is but today's memory, tomorrow is today's dream. — **Kahlil Gibran**
 <!-- QUOTE-END -->
