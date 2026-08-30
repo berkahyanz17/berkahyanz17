@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Yesterday is but today's memory, tomorrow is today's dream. — **Kahlil Gibran**
+> A hopeless man is a very desperate and dangerous man, almost a dead man. — **Robert F. Kennedy**
 <!-- QUOTE-END -->
