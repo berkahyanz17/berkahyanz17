@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> A hopeless man is a very desperate and dangerous man, almost a dead man. — **Robert F. Kennedy**
+> You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level. — **Eckhart Tolle**
 <!-- QUOTE-END -->
