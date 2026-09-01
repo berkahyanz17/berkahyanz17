@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level. — **Eckhart Tolle**
+> I put my heart and soul into my work, and I have lost my mind in the process. — **Vincent van Gogh**
 <!-- QUOTE-END -->
