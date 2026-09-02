@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> I put my heart and soul into my work, and I have lost my mind in the process. — **Vincent van Gogh**
+> Impressing people is utterly different from being truly impressive. — **Ryan Holiday**
 <!-- QUOTE-END -->
