@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Impressing people is utterly different from being truly impressive. — **Ryan Holiday**
+> Keep others in suspense, cultivate an air of unpredictability. — **Robert Greene**
 <!-- QUOTE-END -->
