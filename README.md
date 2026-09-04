@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Keep others in suspense, cultivate an air of unpredictability. — **Robert Greene**
+> Learn only how to avoid seeking for and attaching yourselves to anything. — **Huang Po**
 <!-- QUOTE-END -->
