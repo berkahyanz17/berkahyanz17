@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Learn only how to avoid seeking for and attaching yourselves to anything. — **Huang Po**
+> Trust, but verify. — **Ronald Reagan**
 <!-- QUOTE-END -->
