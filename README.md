@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Trust, but verify. — **Ronald Reagan**
+> If you don't have time to do it right, when will you have time to do it over? — **John Wooden**
 <!-- QUOTE-END -->
