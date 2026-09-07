@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> If you don't have time to do it right, when will you have time to do it over? — **John Wooden**
+> An ounce of performance is worth pounds of promises. — **Mae West**
 <!-- QUOTE-END -->
