@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> An ounce of performance is worth pounds of promises. — **Mae West**
+> Stop being tormented by everyone else's reaction to you. — **Joyce Meyer**
 <!-- QUOTE-END -->
