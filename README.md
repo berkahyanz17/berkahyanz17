@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Stop being tormented by everyone else's reaction to you. — **Joyce Meyer**
+> With the new day comes new strength and new thoughts. — **Eleanor Roosevelt**
 <!-- QUOTE-END -->
