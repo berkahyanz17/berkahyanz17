@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> A successful man is one who can lay a firm foundation with the bricks others have thrown at him. — **David Brinkley**
+> Because of your smile, you make life more beautiful. — **Thich Nhat Hanh**
 <!-- QUOTE-END -->
