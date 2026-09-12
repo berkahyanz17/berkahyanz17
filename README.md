@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Because of your smile, you make life more beautiful. — **Thich Nhat Hanh**
+> I can live without money, but I cannot live without love. — **Judy Garland**
 <!-- QUOTE-END -->
