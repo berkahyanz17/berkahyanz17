@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> I can live without money, but I cannot live without love. — **Judy Garland**
+> If you quit once it becomes a habit. — **Michael Jordan**
 <!-- QUOTE-END -->
