@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> If you quit once it becomes a habit. — **Michael Jordan**
+> Creative endeavors are by their nature uncertain. — **Robert Greene**
 <!-- QUOTE-END -->
