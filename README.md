@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Creative endeavors are by their nature uncertain. — **Robert Greene**
+> The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution. — **Albus Dumbledore**
 <!-- QUOTE-END -->
