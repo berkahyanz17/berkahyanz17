@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution. — **Albus Dumbledore**
+> The biggest room in the world is the room for improvement. — **Unknown**
 <!-- QUOTE-END -->
