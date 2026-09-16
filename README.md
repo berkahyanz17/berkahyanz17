@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@berkahyanuarzulhiansyah](https://medium.com/@berkahyanuarzulhiansyah)
 
-- 📫 How to reach me **berkahyanuarzulhiansyah@gmail.com**
+- 📫 How to reach mee **berkahyanuarzulhiansyah@gmail.com**
 
 - ⚡ Fun fact **I use Github Repo as a Code Editor 🙌**
 
