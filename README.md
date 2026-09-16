@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm BERKAH YANUAR ZULHIANSYAH</h1>
-<h3 align="center">A passionate Data Scientist Enjoyer from Indonesia</h3>
+<h3 align="center">A passionate Data Science Enjoyer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Linux Partition, Ansible, Cloud Computing, and IoT**
+- 🌱 I’m currently learning **Data Science and Game Development**
 
 - 📝 I regularly write articles on [https://medium.com/@berkahyanuarzulhiansyah](https://medium.com/@berkahyanuarzulhiansyah)
 
-- 📫 How to reach mee **berkahyanuarzulhiansyah@gmail.com**
+- 📫 How to reach me **berkahyanuarzulhiansyah@gmail.com**
 
 - ⚡ Fun fact **I use Github Repo as a Code Editor 🙌**
 
