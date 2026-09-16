@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BERKAH YANUAR ZULHIANSYAH</h1>
-<h3 align="center">A passionate Undergraduate Cybersecurity Engineer from Indonesia</h3>
+<h3 align="center">A passionate Data Scientist Enjoyer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Linux Partition, Ansible, Cloud Computing, and IoT**
 
