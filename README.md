@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The biggest room in the world is the room for improvement. — **Unknown**
+> Do good, live in the most positive and joyful way possible every day. — **Roy T. Bennett**
 <!-- QUOTE-END -->
