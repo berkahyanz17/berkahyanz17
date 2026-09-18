@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Do good, live in the most positive and joyful way possible every day. — **Roy T. Bennett**
+> If you're afraid - don't do it, - if you're doing it - don't be afraid! — **Genghis Khan**
 <!-- QUOTE-END -->
