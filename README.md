@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> If you're afraid - don't do it, - if you're doing it - don't be afraid! — **Genghis Khan**
+> Definiteness of purpose is the starting point of all achievement. — **W. Clement Stone**
 <!-- QUOTE-END -->
