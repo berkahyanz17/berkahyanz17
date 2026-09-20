@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Definiteness of purpose is the starting point of all achievement. — **W. Clement Stone**
+> If it is here, it is everywhere. If it is not here, it is nowhere. — **Tibetan Proverb**
 <!-- QUOTE-END -->
