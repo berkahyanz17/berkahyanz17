@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> If it is here, it is everywhere. If it is not here, it is nowhere. — **Tibetan Proverb**
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential. — **Winston Churchill**
 <!-- QUOTE-END -->
