@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential. — **Winston Churchill**
+> Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer. — **J.R.R. Tolkien**
 <!-- QUOTE-END -->
