@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer. — **J.R.R. Tolkien**
+> The more knowledge you have, the more you're free to rely on your instincts. — **Arnold Schwarzenegger**
 <!-- QUOTE-END -->
