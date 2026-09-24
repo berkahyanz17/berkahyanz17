@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The more knowledge you have, the more you're free to rely on your instincts. — **Arnold Schwarzenegger**
+> Your happiness is what truly matters most. Do what you have to do in order to be happy. — **Brian Tracy**
 <!-- QUOTE-END -->
