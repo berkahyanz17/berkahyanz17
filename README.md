@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Your happiness is what truly matters most. Do what you have to do in order to be happy. — **Brian Tracy**
+> Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. — **Oprah Winfrey**
 <!-- QUOTE-END -->
