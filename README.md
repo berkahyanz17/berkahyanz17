@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. — **Oprah Winfrey**
+> If you want something you've never had you must be willing to do something you've never done. — **Thomas Jefferson**
 <!-- QUOTE-END -->
