@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Fear not the path of Truth for the lack of People walking on it. — **Robert F. Kennedy**
+> Smell the cheese often so you know when it is getting old. — **Spencer Johnson**
 <!-- QUOTE-END -->
