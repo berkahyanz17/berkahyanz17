@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Smell the cheese often so you know when it is getting old. — **Spencer Johnson**
+> Sometimes good things fall apart so better things can fall together. — **Marilyn Monroe**
 <!-- QUOTE-END -->
