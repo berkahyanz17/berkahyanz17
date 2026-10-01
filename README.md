@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Sometimes good things fall apart so better things can fall together. — **Marilyn Monroe**
+> Never test the depth of river with both the feet. — **Warren Buffett**
 <!-- QUOTE-END -->
