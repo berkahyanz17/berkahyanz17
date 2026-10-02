@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Never test the depth of river with both the feet. — **Warren Buffett**
+> Becoming a great leader doesn't mean being perfect. it means living with your imperfections. — **Lolly Daskal**
 <!-- QUOTE-END -->
