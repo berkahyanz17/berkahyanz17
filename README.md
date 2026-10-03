@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Becoming a great leader doesn't mean being perfect. it means living with your imperfections. — **Lolly Daskal**
+> Watch what you say, and whatever you say, practice it. — **Soyen Shaku**
 <!-- QUOTE-END -->
