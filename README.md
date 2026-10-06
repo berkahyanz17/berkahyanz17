@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Nothing ever goes away until it has taught us what we need to know. — **Pema Chodron**
+> Animals don't hate, and we're supposed to be better than them. — **Elvis Presley**
 <!-- QUOTE-END -->
