@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Animals don't hate, and we're supposed to be better than them. — **Elvis Presley**
+> Dreams are the royal road to the unconscious. — **Sigmund Freud**
 <!-- QUOTE-END -->
