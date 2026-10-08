@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Dreams are the royal road to the unconscious. — **Sigmund Freud**
+> Love never keeps a man from pursuing his destiny. — **Paulo Coelho**
 <!-- QUOTE-END -->
