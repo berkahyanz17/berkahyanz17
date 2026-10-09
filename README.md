@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Love never keeps a man from pursuing his destiny. — **Paulo Coelho**
+> When you are tempted to give up, your breakthrough is probably just around the corner. — **Joyce Meyer**
 <!-- QUOTE-END -->
