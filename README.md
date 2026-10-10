@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> When you are tempted to give up, your breakthrough is probably just around the corner. — **Joyce Meyer**
+> Not all those who wander are lost. — **J.R.R. Tolkien**
 <!-- QUOTE-END -->
