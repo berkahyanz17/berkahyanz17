@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Not all those who wander are lost. — **J.R.R. Tolkien**
+> Old age is like everything else. To make a success of it, you've got to start young. — **Theodore Roosevelt**
 <!-- QUOTE-END -->
