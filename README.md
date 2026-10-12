@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Old age is like everything else. To make a success of it, you've got to start young. — **Theodore Roosevelt**
+> Life's too mysterious to take too serious. — **Mary Engelbreit**
 <!-- QUOTE-END -->
