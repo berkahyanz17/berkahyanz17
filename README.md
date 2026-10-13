@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Life's too mysterious to take too serious. — **Mary Engelbreit**
+> Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. — **Paramahansa Yogananda**
 <!-- QUOTE-END -->
