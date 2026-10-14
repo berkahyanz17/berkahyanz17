@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. — **Paramahansa Yogananda**
+> Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice. — **Naval Ravikant**
 <!-- QUOTE-END -->
