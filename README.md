@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice. — **Naval Ravikant**
+> Through discipline comes freedom. — **Aristotle**
 <!-- QUOTE-END -->
