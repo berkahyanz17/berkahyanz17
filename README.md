@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Through discipline comes freedom. — **Aristotle**
+> Those who look for the bad in people will surely find it. — **Abraham Lincoln**
 <!-- QUOTE-END -->
