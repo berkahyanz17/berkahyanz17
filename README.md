@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Those who look for the bad in people will surely find it. — **Abraham Lincoln**
+> I learned the value of hard work by working hard. — **Margaret Mead**
 <!-- QUOTE-END -->
