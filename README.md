@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> I learned the value of hard work by working hard. — **Margaret Mead**
+> Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed. — **Lily Tomlin**
 <!-- QUOTE-END -->
