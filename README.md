@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed. — **Lily Tomlin**
+> To be alive - is Power. — **Emily Dickinson**
 <!-- QUOTE-END -->
