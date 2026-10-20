@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> To be alive - is Power. — **Emily Dickinson**
+> Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. — **Kahlil Gibran**
 <!-- QUOTE-END -->
