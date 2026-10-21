@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. — **Kahlil Gibran**
+> The quality of your life is determined by the quality of questions you ask. — **Tony Robbins**
 <!-- QUOTE-END -->
