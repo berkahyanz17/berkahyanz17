@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The quality of your life is determined by the quality of questions you ask. — **Tony Robbins**
+> You have within you right now, everything you need to deal with whatever the world can throw at you. — **Brian Tracy**
 <!-- QUOTE-END -->
