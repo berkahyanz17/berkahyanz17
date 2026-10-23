@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> You have within you right now, everything you need to deal with whatever the world can throw at you. — **Brian Tracy**
+> We can either add to our character each day, or we can fritter away our energies in distractions. — **Ming-Dao Deng**
 <!-- QUOTE-END -->
