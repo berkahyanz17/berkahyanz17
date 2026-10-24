@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> We can either add to our character each day, or we can fritter away our energies in distractions. — **Ming-Dao Deng**
+> The measure of who we are is what we do with what we have. — **Vince Lombardi**
 <!-- QUOTE-END -->
