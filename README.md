@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The measure of who we are is what we do with what we have. — **Vince Lombardi**
+> Your next step is simple. You are the first domino. — **Gary Keller**
 <!-- QUOTE-END -->
