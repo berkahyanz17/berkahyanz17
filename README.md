@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Your next step is simple. You are the first domino. — **Gary Keller**
+> People should pursue what they're passionate about. That will make them happier than pretty much anything else. — **Elon Musk**
 <!-- QUOTE-END -->
