@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> People should pursue what they're passionate about. That will make them happier than pretty much anything else. — **Elon Musk**
+> True life is lived when tiny changes occur. — **Leo Tolstoy**
 <!-- QUOTE-END -->
