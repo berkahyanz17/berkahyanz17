@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> True life is lived when tiny changes occur. — **Leo Tolstoy**
+> It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts. — **Alfred Adler**
 <!-- QUOTE-END -->
