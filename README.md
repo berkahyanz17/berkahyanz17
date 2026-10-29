@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts. — **Alfred Adler**
+> He who knows how to wait need make no concessions. — **Sigmund Freud**
 <!-- QUOTE-END -->
