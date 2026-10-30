@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> He who knows how to wait need make no concessions. — **Sigmund Freud**
+> Life is what happens to you while you're busy making other plans. — **John Lennon**
 <!-- QUOTE-END -->
