@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Life is what happens to you while you're busy making other plans. — **John Lennon**
+> Only I can change my life. No one can do it for me. — **Carol Burnett**
 <!-- QUOTE-END -->
