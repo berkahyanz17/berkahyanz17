@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Only I can change my life. No one can do it for me. — **Carol Burnett**
+> We are shaped and fashioned by what we love. — **Johann Wolfgang von Goethe**
 <!-- QUOTE-END -->
