@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> We are shaped and fashioned by what we love. — **Johann Wolfgang von Goethe**
+> Turn the pain into power. — **Unknown**
 <!-- QUOTE-END -->
