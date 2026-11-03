@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Turn the pain into power. — **Unknown**
+> Never close your lips to those whom you have already opened your heart. — **Charles Dickens**
 <!-- QUOTE-END -->
