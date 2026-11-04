@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Never close your lips to those whom you have already opened your heart. — **Charles Dickens**
+> Pleasure can be supported by an illusion; but happiness rests upon truth. — **Nicolas Chamfort**
 <!-- QUOTE-END -->
