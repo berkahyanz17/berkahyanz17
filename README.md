@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Pleasure can be supported by an illusion; but happiness rests upon truth. — **Nicolas Chamfort**
+> Don't give up the fight, Stand up for your rights. — **Bob Marley**
 <!-- QUOTE-END -->
