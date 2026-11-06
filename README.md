@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Don't give up the fight, Stand up for your rights. — **Bob Marley**
+> It is in the darkness that one finds the light. — **Meister Eckhart**
 <!-- QUOTE-END -->
