@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> It is in the darkness that one finds the light. — **Meister Eckhart**
+> Every drop in the ocean counts. — **Yoko Ono**
 <!-- QUOTE-END -->
