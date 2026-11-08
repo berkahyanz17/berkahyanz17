@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Every drop in the ocean counts. — **Yoko Ono**
+> No one is useless in this world who lightens the burdens of another. — **Charles Dickens**
 <!-- QUOTE-END -->
