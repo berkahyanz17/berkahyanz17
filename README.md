@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The wise learn many things from their enemies. — **Aristophanes**
+> Confidence breeds beauty. — **Estee Lauder**
 <!-- QUOTE-END -->
