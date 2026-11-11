@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Confidence breeds beauty. — **Estee Lauder**
+> For all evils there are two remedies - time and silence. — **Alexandre Dumas**
 <!-- QUOTE-END -->
