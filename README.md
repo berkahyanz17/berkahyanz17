@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> For all evils there are two remedies - time and silence. — **Alexandre Dumas**
+> A bird does not sing because it has an answer. It sings because it has a song. — **Chinese Proverb**
 <!-- QUOTE-END -->
