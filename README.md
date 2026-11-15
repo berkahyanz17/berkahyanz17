@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> I would rather be hated for who I am than loved for who I'm not. — **Wayne Dyer**
+> You are never too old to set another goal or to dream a new dream. — **Les Brown**
 <!-- QUOTE-END -->
