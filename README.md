@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> You are never too old to set another goal or to dream a new dream. — **Les Brown**
+> Happiness is a quality of the soul...not a function of one's material circumstances. — **Aristotle**
 <!-- QUOTE-END -->
