@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Happiness is a quality of the soul...not a function of one's material circumstances. — **Aristotle**
+> Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable. — **Earl Nightingale**
 <!-- QUOTE-END -->
