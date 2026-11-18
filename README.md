@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable. — **Earl Nightingale**
+> The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. — **Jim Rohn**
 <!-- QUOTE-END -->
