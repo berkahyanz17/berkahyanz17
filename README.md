@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. — **Jim Rohn**
+> Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. — **Robert Greene**
 <!-- QUOTE-END -->
