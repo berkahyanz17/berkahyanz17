@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. — **Robert Greene**
+> We must be free not because we claim freedom, but because we practice it. — **William Faulkner**
 <!-- QUOTE-END -->
