@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> We must be free not because we claim freedom, but because we practice it. — **William Faulkner**
+> You're braver than you believe, and stronger than you seem, and smarter than you think. — **A.A. Milne**
 <!-- QUOTE-END -->
