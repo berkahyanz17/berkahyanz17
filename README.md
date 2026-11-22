@@ -45,5 +45,5 @@
 
 ## 💬 Quote of the Day
 <!-- QUOTE-START -->
-> You're braver than you believe, and stronger than you seem, and smarter than you think. — **A.A. Milne**
+> It is in the darkness that one finds the light. — **Meister Eckhart**
 <!-- QUOTE-END -->
