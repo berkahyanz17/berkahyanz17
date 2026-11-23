@@ -39,7 +39,7 @@ I'm **Berkah Yanuar Zulhiansyah**, a students at **Institut Teknologi Bandung**.
 ## ✦ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://stats.pphat.top/icons?name=python,js,typescript,html,css,react,docker,claude,cloudflare,expo,git,github,linux,bash,7zip,mariadb,postgresql,nginx,vscode&size=small&effect=wave&columns=5" width="72%" alt="Tech stack icons" />
+  <img src="https://stats.pphat.top/icons?name=python,js,typescript,react,docker,claude,cloudflare,expo,git,github,linux,bash,mariadb,postgresql,nginx,vscode&size=small&effect=wave&columns=5" width="72%" alt="Tech stack icons" />
 </p>
 
 ---
