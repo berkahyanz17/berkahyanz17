@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BERKAH YANUAR ZULHIANSYAH</h1>
-<h3 align="center">A passionate Data Science Enjoyer from Indonesia</h3>
+<h3 align="center">A passionate coders from Indonesia</h3>
 
-- 🌱 I’m currently learning **Data Science and Game Development**
+- 🌱 I’m currently learning **React Native and Expo Go**
 
 - 📝 I regularly write articles on [https://medium.com/@berkahyanuarzulhiansyah](https://medium.com/@berkahyanuarzulhiansyah)
 
