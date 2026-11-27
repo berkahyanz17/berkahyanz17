@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/berkah-yanuar-zulhiansyah-b30873349/">
     <img src="https://img.shields.io/badge/LinkedIn-173B65?style=for-the-badge&logo=linkedin&logoColor=D9F5FF" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/berkahyanuarz/">
+  <a href="https://www.instagram.com/berkah_yanuarz/">
     <img src="https://img.shields.io/badge/Instagram-173B65?style=for-the-badge&logo=instagram&logoColor=D8C5F2" alt="Instagram" />
   </a>
   <a href="https://medium.com/@berkahyanuarzulhiansyah">
